@@ -1,0 +1,9 @@
+whisper
+sounddevice
+numpy
+argostranslate
+torch
+torchaudio
+TTS
+ffmpeg-python
+
